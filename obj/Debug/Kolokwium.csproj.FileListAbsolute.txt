@@ -1,0 +1,13 @@
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe.config
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\bin\Debug\Kolokwium.pdb
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium.csprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\MainWindow.baml
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\MainWindow.g.cs
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\App.g.cs
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium_MarkupCompile.cache
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium.g.resources
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium.Properties.Resources.resources
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium.csproj.GenerateResource.Cache
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium.exe
+C:\Users\bialy\Desktop\Nowy folder\Kolokwium\Kolokwium\obj\Debug\Kolokwium.pdb
